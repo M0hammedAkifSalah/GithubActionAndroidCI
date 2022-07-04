@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "621411100009",
+    "project_id": "grow-on-student",
+    "storage_bucket": "grow-on-student.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621411100009:android:8c6eea8cf142b6603309f8",
+        "android_client_info": {
+          "package_name": "com.growon.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621411100009-5oapagmh22ih8eueec23rqgsmoas0qn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbph5294vp4jKXExF4ACAlswT8YLulY9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621411100009-5oapagmh22ih8eueec23rqgsmoas0qn9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621411100009-b6qnahqmoj09a7kopnqpi78ljp8i9h9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thinkdigital.growon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621411100009:android:97eda6277fba24b23309f8",
+        "android_client_info": {
+          "package_name": "com.thinkdigital.growonplus_teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621411100009-5oapagmh22ih8eueec23rqgsmoas0qn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbph5294vp4jKXExF4ACAlswT8YLulY9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621411100009-5oapagmh22ih8eueec23rqgsmoas0qn9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621411100009-b6qnahqmoj09a7kopnqpi78ljp8i9h9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thinkdigital.growon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

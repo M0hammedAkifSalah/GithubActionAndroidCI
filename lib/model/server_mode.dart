@@ -1,0 +1,1 @@
+enum ServerMode { development, preProduction, production }
